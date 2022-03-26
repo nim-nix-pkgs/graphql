@@ -795,11 +795,11 @@
     "src-graphql-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1647939809,
-        "narHash": "sha256-9f3BLLlEDKPyh1BX12zGUeFIFlv8tsjJixt7q8zuBrw=",
+        "lastModified": 1648202787,
+        "narHash": "sha256-9v+ak0Fgq+dOcsUmfM2KAZQ045A09n+yo0fE9ctGQH0=",
         "owner": "status-im",
         "repo": "nim-graphql",
-        "rev": "8875344c4f3e31267336861aa33423c657317920",
+        "rev": "50e7e5b46792369531020ef18bc286cff589eccb",
         "type": "github"
       },
       "original": {
