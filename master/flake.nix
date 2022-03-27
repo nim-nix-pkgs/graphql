@@ -11,6 +11,7 @@
   inputs.src-graphql-master.ref   = "refs/heads/master";
   inputs.src-graphql-master.owner = "status-im";
   inputs.src-graphql-master.repo  = "nim-graphql";
+  inputs.src-graphql-master.dir   = "";
   inputs.src-graphql-master.type  = "github";
   
   inputs."faststreams".owner = "nim-nix-pkgs";
